@@ -1,3 +1,4 @@
 {
-  "YOUR_API_CONFIGURATION": "value"
+  "FIREBASE_API_KEY": "AIzaSyD-EXAMPLE-KEY",
+  "FIREBASE_PROJECT_ID": "your-app"
 }
